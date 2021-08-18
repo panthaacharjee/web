@@ -1,0 +1,27 @@
+@media screen and (max-width : 800px) {
+    #contact-section img{
+        width: 250px;
+    }
+}
+
+@media screen and (max-width : 750px) {
+    /* Product Section */
+    .small-device{
+        display: flex;
+        justify-content: center;
+    }
+    /* Contact Section */
+    #contact-section img{
+        margin-top: 100px;
+    }
+    .logo{
+        text-align: center
+     }
+     nav{
+         height: 100px;
+     }
+}
+
+@media screen and (max-width : 550px) {
+   
+}
